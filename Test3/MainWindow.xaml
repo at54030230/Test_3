@@ -6,7 +6,7 @@
         <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="253" Margin="40,66,0,0" VerticalAlignment="Top" Width="287">
             <Button>
                 <Grid Height="100" Width="100">
-                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="63,48,-63,-48" VerticalAlignment="Top" Width="100"/>
+                    <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100"/>
                 </Grid>
             </Button>
         </Border>
